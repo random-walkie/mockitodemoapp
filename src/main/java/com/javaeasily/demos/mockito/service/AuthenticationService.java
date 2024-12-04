@@ -1,4 +1,7 @@
-package com.javaeasily.demos.mockito;
+package com.javaeasily.demos.mockito.service;
+
+import com.javaeasily.demos.mockito.User;
+import com.javaeasily.demos.mockito.data.UserRepository;
 
 public class AuthenticationService {
     private UserRepository userRepository;

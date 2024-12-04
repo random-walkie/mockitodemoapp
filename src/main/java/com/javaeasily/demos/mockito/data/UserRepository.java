@@ -1,4 +1,6 @@
-package com.javaeasily.demos.mockito;
+package com.javaeasily.demos.mockito.data;
+
+import com.javaeasily.demos.mockito.User;
 
 import java.util.HashMap;
 import java.util.Map;
